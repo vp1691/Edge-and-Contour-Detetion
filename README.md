@@ -1,4 +1,4 @@
-# Edges-Countour-Detetion
+# Edge and Countour Detetion
 
 Edges: Edges is actually the analysis of the discontinues in the images. Usually edges are found or occur on the boundary of two objects
 
